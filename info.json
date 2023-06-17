@@ -1,0 +1,9 @@
+{
+  "name": "kraskaska-biomass-biters",
+  "version": "0.1.1",
+  "title": "Biomass Biters",
+  "author": "kraskaska",
+  "description": "Collect bioslush from dead natives, turn it into biomass and grow friendly nests for your base",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1.80", "? Rampant >= 3.3.2"]
+}
